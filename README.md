@@ -3,6 +3,8 @@
 An automatic solution to read/listen latest news. This will really help those people who are always busy in travelling or who do not have time to read the news and also it will help blind people as there will be an automatic way for them to hear out the news.
 With just a single step the user can email the audio and pdf file to any number of other users.
 
+<a href = "https://www.linkedin.com/posts/riya-gupta-7888961b7_hackathon-puppeteer-automation-activity-6789592580364533760-CSU0">Demo</a>
+
 ### Libraries Required/Installed - 
 1. puppeteer    -> npm install puppeteer
 2. fs   
